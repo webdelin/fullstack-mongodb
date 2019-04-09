@@ -1,0 +1,13 @@
+POST http://localhost:5000/api/auth/register
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:5000/api/auth/register
+Accept: */*
+Cache-Control: no-cache
+{ 	"email": "test@test.test", 	"password": "123456" }:
+
+###
+
